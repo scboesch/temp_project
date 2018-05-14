@@ -10,7 +10,7 @@ const styles = {
 const App = () => (
   <div style={styles}>
     <Hello name="CodeSandbox" />
-    <h2>First project saved back to Github.. {"\u2728"}</h2>
+    <h2>First edit saved back to Github.. {"\u2728"}</h2>
   </div>
 );
 
